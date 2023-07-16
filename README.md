@@ -1,5 +1,5 @@
 # start_your_project
-This is vue-electron-cryptocurrency project for you.
+This is wordpress + stripe project for you.
 
 =====================================================================
 
