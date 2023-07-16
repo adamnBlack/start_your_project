@@ -13,4 +13,4 @@ This is wordpress + stripe project for you.
 
 ====================================================================
 
-   Adam Black   live:.cid.67aac9ec52a4ca5e
+SKYPE   live:.cid.67aac9ec52a4ca5e
