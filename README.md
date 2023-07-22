@@ -1,5 +1,5 @@
 # start_your_project
-This is wordpress + stripe project for you.
+This is project for you.
 
 =====================================================================
 
