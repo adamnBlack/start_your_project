@@ -14,3 +14,7 @@ This is project for you.
 ====================================================================
 
 SKYPE   live:.cid.67aac9ec52a4ca5e
+Telegram https://t.me/untechguru2
+Email mc2933088@gmail.com
+
+Could you contact me here?
